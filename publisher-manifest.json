@@ -1,0 +1,156 @@
+{
+  "version": 2,
+  "template_version": "612e752c89f695570dfa",
+  "page_size": 20,
+  "site_id": "528dc8cefc1798dfd0cfe3eb",
+  "owner": "rtparg",
+  "repo": "page-1f03086a4ff2a724ddca3ad7",
+  "title": "一元机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1f03086a4ff2a724ddca3ad7",
+      "a": "一元机场",
+      "b": "2026最新注册地址",
+      "entity": "一元机场",
+      "brand": "一元机场",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "637d9e8afba084cce1e05eabdafb810995adb99e00e8839de7aa6b15cde846e2",
+      "content": {
+        "keyword1": "一元机场",
+        "keyword2": "2026最新注册地址",
+        "primary_entity": "一元机场",
+        "content": {
+          "AI_CLIENTS_INTRO": "一元机场的订阅配置以客户端为准，不同系统选用对应软件即可。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，按文档完成订阅导入即可开始使用。",
+          "AI_CLOSING_TITLE": "从套餐匹配到订阅落地",
+          "AI_DESCRIPTION": "，一元机场提供基础版、旗舰版与团队版三档套餐，覆盖 100GB 至 1000GB 月流量、3 台至 20 台设备同时在线，年付可享对应优惠，适合不同规模的加速需求。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。按设备数量与流量消耗选档即可。",
+          "AI_FAQ_ANSWER_2": "三档套餐均提供年付方案：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。月付与年付都按实际使用周期计费。",
+          "AI_FAQ_ANSWER_3": "旗舰版面向多设备与流媒体场景，提供全节点原生流媒体解锁与 IPLC 专线游戏加速优化，还含 7x24 优先工单支持。",
+          "AI_FAQ_ANSWER_4": "在客户端中粘贴订阅链接或导入订阅文件，按各客户端文档完成更新即可。后续节点调整通常通过订阅更新同步。",
+          "AI_FAQ_ANSWER_5": "团队版支持 20 台设备同时在线，含 VIP 专属高带宽节点、企业定制路由与专属客户经理服务，适合多人协作场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一元机场三档套餐分别适合多少设备和流量？",
+          "AI_FAQ_QUESTION_2": "一元机场的年付价格是多少？",
+          "AI_FAQ_QUESTION_3": "旗舰版相比基础版多了哪些权益？",
+          "AI_FAQ_QUESTION_4": "订阅链接如何导入客户端？",
+          "AI_FAQ_QUESTION_5": "团队版可以满足多人使用吗？",
+          "AI_FAQ_TITLE": "套餐与订阅常见问题",
+          "AI_FEATURES_INTRO": "三档套餐在流量、设备数与节点权益上逐步升级，可按实际场景对照选择。",
+          "AI_FEATURES_TITLE": "套餐与配置要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备在线，年付 ¥150，适合轻量日常浏览；旗舰版每月 300GB、5 台设备，年付 ¥350，增加 IPLC 专线游戏加速与优先工单支持。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供全节点原生流媒体解锁与 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点与企业定制路由，可在对应场景按需选用。",
+          "AI_FEATURE_TEXT_3": "月付与年付均可选择，年付方案折算更省；订阅周期内可在支持设备上同时在线，按套餐名额配置客户端。",
+          "AI_FEATURE_TITLE_1": "三档套餐",
+          "AI_FEATURE_TITLE_2": "节点权益",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "先确定套餐，再确认设备与系统，最后按客户端文档完成订阅配置。",
+          "AI_GUIDE_TITLE": "使用三步骤",
+          "AI_HERO_INTRO": "一元机场提供基础版、旗舰版与团队版三档套餐，月流量从 100GB 到 1000GB，支持 3 台至 20 台设备同时在线，配合不同客户端完成订阅配置。",
+          "AI_HERO_SUBTITLE": "三档套餐按需匹配设备与流量",
+          "AI_HIGHLIGHT_1": "三档套餐，月付与年付均可选，按流量与设备数匹配",
+          "AI_HIGHLIGHT_2": "旗舰版与团队版提供流媒体解锁、IPLC 专线及专属节点权益",
+          "AI_HIGHLIGHT_3": "按客户端文档导入订阅，设备数量与套餐名额对应",
+          "AI_PLANS_INTRO": "基础版每月 100GB、3 台设备，年付 ¥150；旗舰版每月 300GB、5 台设备，年付 ¥350；团队版每月 1000GB、20 台设备，年付 ¥850。按设备数与用量对照选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据同时在线设备数、每月流量需求与是否需要流媒体或专线权益，在基础版、旗舰版、团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端类型，查看套餐允许的同时在线设备数量，准备安装对应客户端。",
+          "AI_STEP_TEXT_3": "在客户端中粘贴订阅链接或导入订阅文件，按客户端文档完成更新与节点选择。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "确认设备",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "一元机场套餐与订阅"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_generation": {
+          "version": 5,
+          "task": "1f03086a4ff2a724ddca3ad7",
+          "related_topics": []
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "gggje.cn",
+    "host": "cn.gggje.cn",
+    "kind": "subdomain"
+  },
+  "friendlinks": [
+    {
+      "host": "gggje.cn",
+      "url": "https://gggje.cn/",
+      "label": "樱花",
+      "apex": "gggje.cn",
+      "kind": null,
+      "identity": "resxpnwwj/page-2a876b933c492237e5cda73d"
+    },
+    {
+      "host": "nijcrjv.cn",
+      "url": "https://nijcrjv.cn/",
+      "label": "一元机场",
+      "apex": "nijcrjv.cn",
+      "kind": null,
+      "identity": "qcmxgvja/page-e23f786fffa155d61c33f156"
+    },
+    {
+      "host": "njlfmm.cn",
+      "url": "https://njlfmm.cn/",
+      "label": "一元机场",
+      "apex": "njlfmm.cn",
+      "kind": null,
+      "identity": "rrwvhebydh/page-681f7721649366a078df7e68"
+    }
+  ],
+  "file_hashes": {
+    "assets/6f0f3b111882a70a065487b0.webp": "0a1cfad51249dbd15c9b5a79bf626e1bce570101897715087d01c5c054c175d2",
+    "assets/3dcb7b5ce4a0e52fa8237907.png": "2874cca72d3a131a258b003787edb3ce0bab6c1ab0afbfdfb0b626d59549c9ae",
+    "index.html": "6a003c0f105f1a89ba37b2abb7640ec3679c67df67df84909a50008f63b25aef",
+    "sitemap.xml": "0b37a7479c7a6915935d3fe42095f85883523068b129a4585d2b03d086aef03b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c6d8247838ea9e7daaa2362bf41443412ae015dd3b4d60e2498f5077315cfd8d",
+    "robots.txt": "fd9235557636e9654be29e39b214216421378e79d9fa6e5cfa71e2f17a50a140",
+    "44badaf72ec751aa4bdc058719c54970.txt": "0ee7a1240c3f5ef3fde08a9b17f5fd11f37d82cb0cc5db4378fa9dc2ed1de6af"
+  },
+  "revision": "c03541bab39ed3aa8ce54cd5e5e50e234da35f8ef6242a6d5ee400ad244829e6"
+}
